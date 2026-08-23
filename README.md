@@ -82,7 +82,7 @@ You can find my projects, contributions and activity here:
 
 ## 📫 Find Me
 
-[GitHub](https://github.com/shutkarshX) · [Instagram](https://instagram.com/shut.karsh)
+[GitHub](https://github.com/shutkarshX) · [Instagram](https://instagram.com/shut.karsh) · [LinkedIn](https://www.linkedin.com/in/utkarsh-sharma-25403a3b5/)
 
 ---
 
