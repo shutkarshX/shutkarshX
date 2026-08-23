@@ -65,9 +65,9 @@ A collection of my DSA implementations and experiments, including C, Python, ter
 
 ## 📈 GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shutkarshX&show_icons=true&hide_border=true&rank_icon=github)
+You can find my projects, contributions and activity here:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shutkarshX&layout=compact&hide_border=true)
+[![GitHub](https://img.shields.io/badge/GitHub-shutkarshX-181717?style=flat-square&logo=github)](https://github.com/shutkarshX)
 
 ---
 
