@@ -80,16 +80,6 @@ You can find my projects, contributions and activity here:
 
 ---
 
-## 💼 Work So Far
-
-- Built and presented **RESQ-AI**, an AI-assisted disaster-response decision-support system focused on risk prioritization, SOS handling, geospatial intelligence and rescue coordination.
-- Built **Bunku-Bhaiya**, a working attendance-tracking and safe-bunk calculator that integrates with a college portal.
-- Worked across Python, C, JavaScript and web technologies through projects, DSA practice and hands-on development.
-- Explored full-stack development, APIs, browser automation, databases, AI-assisted applications and practical system design.
-- Participated in project-based development and hackathon-oriented problem solving, focusing on building functional solutions rather than only prototypes on paper.
-
----
-
 ## 📫 Find Me
 
 [GitHub](https://github.com/shutkarshX) · [Instagram](https://instagram.com/shut.karsh) · [LinkedIn](https://www.linkedin.com/in/utkarsh-sharma-25403a3b5/)
