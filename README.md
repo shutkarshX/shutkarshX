@@ -1,108 +1,89 @@
 # Hey, I'm Utkarsh 👋
 
-### Developer · Builder · Problem Solver
+### B.Tech Student • Developer • Builder
 
-```text
-$ whoami
+I like turning ideas into working projects — from college tools and web apps to AI-assisted systems.
 
-B.Tech student building practical software,
-exploring AI-assisted systems, and learning by shipping.
+Currently learning, building, breaking, and rebuilding things with Python, C, JavaScript and web technologies.
 
-$ philosophy
-
-build → break → understand → build better
-```
-
-I like turning ideas into working software — especially projects that solve a real problem rather than just demonstrate a technology.
+[![Profile Views](https://komarev.com/ghpvc/?username=shutkarshX&style=flat-square&label=Profile%20Views)](https://github.com/shutkarshX)
 
 ---
 
-## `$ projects`
+## 🚀 Featured Projects
 
 ### 🤖 RESQ-AI
+**AI-assisted disaster response intelligence & rescue coordination platform**
 
-**AI-assisted disaster-response intelligence & rescue coordination**
+A disaster-response command-center prototype that combines risk prioritization, citizen SOS reports, geospatial intelligence, rescue-team assignment and operational tracking.
 
-A full-stack decision-support prototype built around the flow:
+**Stack:** React · TypeScript · FastAPI · Python · SQLite · Leaflet
 
-`SOS → Risk → Priority → Recommendation → Rescue Assignment → Operation Tracking`
-
-**Stack:** `React` `TypeScript` `FastAPI` `Python` `SQLite` `Leaflet`
-
-→ **[View Project](https://github.com/shutkarshX/resq-ai)**
+→ [View Project](https://github.com/shutkarshX/resq-ai)
 
 ---
 
 ### 📊 Bunku-Bhaiya
+**College attendance tracker & safe-bunk calculator**
 
-**Attendance intelligence & safe-bunk calculator**
+Retrieves subject-wise attendance from the college portal and calculates how many teaching days can safely be missed while maintaining the required attendance percentage.
 
-A student-focused application that retrieves attendance from the college portal and combines it with attendance and academic-calendar logic to determine how many classes can safely be missed.
+**Stack:** Python · Flask · Playwright · HTML · CSS · JavaScript
 
-**Stack:** `Python` `Flask` `Playwright` `JavaScript` `HTML` `CSS`
-
-→ **[View Project](https://github.com/shutkarshX/Bunku-Bhaiya)**
+→ [View Project](https://github.com/shutkarshX/Bunku-Bhaiya)
 
 ---
 
 ### 🧠 DSA
+**Data Structures & Algorithms practice**
 
-**Data Structures & Algorithms**
+A collection of my DSA implementations and experiments, including C, Python, terminal-based work and a web interface.
 
-A collection of DSA implementations and programming experiments covering C, Python, terminal-based programs and web development.
-
-**Stack:** `C` `Python`
-
-→ **[View Project](https://github.com/shutkarshX/DSA)
+→ [View Project](https://github.com/shutkarshX/DSA)
 
 ---
 
-## `$ stack`
+## 🛠️ Tech I Work With
 
 **Languages**
 
-`Python` · `JavaScript` · `TypeScript` · `C` · `Java`
+`Python` `C` `JavaScript` `Java`
 
 **Web & Backend**
 
-`React` · `FastAPI` · `Flask` · `REST APIs`
+`HTML` `CSS` `Flask` `FastAPI`
 
-**Data & Tools**
+**Tools**
 
-`SQLite` · `SQLAlchemy` · `Git` · `GitHub` · `Vite` · `Playwright`
+`Git` `GitHub` `Playwright` `Vite`
 
----
+**Data / AI**
 
-## `$ contribution_map`
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/shutkarshX/shutkarshX/output/github-contribution-grid-snake.svg" alt="GitHub contribution snake" />
-</p>
+`SQLite` `Data Science` `AI-assisted systems`
 
 ---
 
-## `$ currently_building`
+## 📈 GitHub
 
-```text
-[ ACTIVE ]
+You can find my projects, contributions and activity here:
 
-→ improving practical software projects
-→ exploring AI-assisted applications
-→ building systems around real problems
-→ learning through implementation
-```
+[![GitHub](https://img.shields.io/badge/GitHub-shutkarshX-181717?style=flat-square&logo=github)](https://github.com/shutkarshX)
 
 ---
 
-## `$ find_me`
+## 🎯 Currently Building
 
-[GitHub](https://github.com/shutkarshX) · [LinkedIn](https://www.linkedin.com/in/utkarsh-sharma-25403a3b5/) · [Instagram](https://instagram.com/shut.karsh)
+- Improving **Bunku-Bhaiya**
+- Exploring AI-assisted applications
+- Building more practical projects
+- Learning through real-world implementation
 
-```text
-$ exit
+---
 
-Build it.
-Break it.
-Understand it.
-Build it better.
-```
+## 📫 Find Me
+
+[GitHub](https://github.com/shutkarshX) · [Instagram](https://instagram.com/shut.karsh) · [LinkedIn](https://www.linkedin.com/in/utkarsh-sharma-25403a3b5/)
+
+---
+
+> Build it. Break it. Understand it. Build it better.
