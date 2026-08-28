@@ -53,7 +53,7 @@ A collection of DSA implementations and programming experiments covering C, Pyth
 
 **Stack:** `C` `Python`
 
-→ **[View Project](https://github.com/shutkarshX/DSA)**
+→ **[View Project](https://github.com/shutkarshX/DSA)
 
 ---
 
@@ -70,12 +70,6 @@ A collection of DSA implementations and programming experiments covering C, Pyth
 **Data & Tools**
 
 `SQLite` · `SQLAlchemy` · `Git` · `GitHub` · `Vite` · `Playwright`
-
----
-
-## `$ github_activity`
-
-[![GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=shutkarshX&hide_border=true&area=true&custom_title=Contribution%20Activity)](https://github.com/shutkarshX)
 
 ---
 
