@@ -1,89 +1,145 @@
-# Hey, I'm Utkarsh 👋
+<div align="center">
 
-### B.Tech Student • Developer • Builder
+<img src="https://raw.githubusercontent.com/shutkarshX/shutkarshX/main/assets/profile-header.svg" alt="Utkarsh Sharma — software, systems, automation and AI-assisted builds" width="100%" />
 
-I like turning ideas into working projects — from college tools and web apps to AI-assisted systems.
+<br />
 
-Currently learning, building, breaking, and rebuilding things with Python, C, JavaScript and web technologies.
+<a href="https://github.com/shutkarshX"><img src="https://komarev.com/ghpvc/?username=shutkarshX&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" /></a>
+<a href="https://github.com/shutkarshX?tab=followers"><img src="https://img.shields.io/github/followers/shutkarshX?style=flat-square&label=FOLLOWERS" alt="GitHub followers" /></a>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=shutkarshX&style=flat-square&label=Profile%20Views)](https://github.com/shutkarshX)
+</div>
+
+## `whoami`
+
+I'm a **B.Tech student and developer** who enjoys turning messy problems into working software.
+
+I care more about **what a system does** than how many technologies can be listed on a README. Most of my work sits around Python/backend systems, full-stack applications, automation, APIs, and increasingly AI-assisted software.
+
+> **Problem → System → Test → Iterate**
 
 ---
 
-## 🚀 Featured Projects
+## ⚡ What I'm building
+
+<table>
+<tr>
+<td width="50%">
 
 ### 🤖 RESQ-AI
-**AI-assisted disaster response intelligence & rescue coordination platform**
+**Disaster-response command center**
 
-A disaster-response command-center prototype that combines risk prioritization, citizen SOS reports, geospatial intelligence, rescue-team assignment and operational tracking.
+A full-stack prototype connecting citizen SOS reports, risk prioritization, geospatial intelligence, AI-assisted decision support, rescue-team assignment and operational tracking.
 
-**Stack:** React · TypeScript · FastAPI · Python · SQLite · Leaflet
+`React` `TypeScript` `FastAPI` `Python` `SQLite`
 
-→ [View Project](https://github.com/shutkarshX/resq-ai)
+**[→ Explore RESQ-AI](https://github.com/shutkarshX/resq-ai)**
 
----
+</td>
+<td width="50%">
 
 ### 📊 Bunku-Bhaiya
-**College attendance tracker & safe-bunk calculator**
+**Attendance + academic planning**
 
-Retrieves subject-wise attendance from the college portal and calculates how many teaching days can safely be missed while maintaining the required attendance percentage.
+A student-focused system that retrieves attendance data and turns it into practical planning: current attendance, teaching-day logic and safe-bunk calculations.
 
-**Stack:** Python · Flask · Playwright · HTML · CSS · JavaScript
+`Python` `Flask` `Playwright` `JavaScript`
 
-→ [View Project](https://github.com/shutkarshX/Bunku-Bhaiya)
+**[→ Explore Bunku-Bhaiya](https://github.com/shutkarshX/Bunku-Bhaiya)**
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🧪 Prodigy-Infotech
+**Data / ML internship work**
+
+A collection of applied tasks covering visualization, EDA, classification, sentiment analysis and accident-data exploration.
+
+`Python` `Pandas` `scikit-learn` `NLP`
+
+**[→ Explore the work](https://github.com/shutkarshX/Prodigy-Infotech)**
+
+</td>
+<td width="50%">
 
 ### 🧠 DSA
-**Data Structures & Algorithms practice**
+**Fundamentals, implemented**
 
-A collection of my DSA implementations and experiments, including C, Python, terminal-based work and a web interface.
+C and Python implementations used to strengthen data structures, algorithms, pointers, memory and problem-solving fundamentals.
 
-→ [View Project](https://github.com/shutkarshX/DSA)
+`C` `Python` `DSA`
 
----
+**[→ Explore DSA](https://github.com/shutkarshX/DSA)**
 
-## 🛠️ Tech I Work With
-
-**Languages**
-
-`Python` `C` `JavaScript` `Java`
-
-**Web & Backend**
-
-`HTML` `CSS` `Flask` `FastAPI`
-
-**Tools**
-
-`Git` `GitHub` `Playwright` `Vite`
-
-**Data / AI**
-
-`SQLite` `Data Science` `AI-assisted systems`
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 GitHub
+## 🧩 My stack
 
-You can find my projects, contributions and activity here:
-
-[![GitHub](https://img.shields.io/badge/GitHub-shutkarshX-181717?style=flat-square&logo=github)](https://github.com/shutkarshX)
-
----
-
-## 🎯 Currently Building
-
-- Improving **Bunku-Bhaiya**
-- Exploring AI-assisted applications
-- Building more practical projects
-- Learning through real-world implementation
+| Layer | Tools I actually use |
+|---|---|
+| **Languages** | `Python` `C` `JavaScript` `Java` `TypeScript` |
+| **Frontend** | `React` `HTML` `CSS` `Vite` |
+| **Backend** | `FastAPI` `Flask` `REST APIs` |
+| **Data** | `SQLite` `SQL` `Pandas` `scikit-learn` |
+| **Engineering** | `Git` `GitHub` `Playwright` `SQLAlchemy` |
 
 ---
 
-## 📫 Find Me
+## 🐍 Contributions, but alive
 
-[GitHub](https://github.com/shutkarshX) · [Instagram](https://instagram.com/shut.karsh) · [LinkedIn](https://www.linkedin.com/in/utkarsh-sharma-25403a3b5/)
+<div align="center">
+
+<a href="https://github.com/shutkarshX">
+<img src="https://raw.githubusercontent.com/shutkarshX/shutkarshX/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" />
+</a>
+
+</div>
+
+<details>
+<summary><b>What the snake represents</b></summary>
+<br />
+
+It's simply my contribution history turned into an animation — a small visual layer over the work happening in public repositories.
+
+</details>
 
 ---
 
-> Build it. Break it. Understand it. Build it better.
+## 🔭 Currently
+
+- Building and improving **Bunku-Bhaiya**
+- Exploring **AI-assisted software systems**
+- Going deeper into **backend architecture and system design**
+- Turning academic ideas into usable prototypes
+- Looking for opportunities to build, collaborate and learn in public
+
+---
+
+## 📌 A few principles
+
+```text
+Don't collect technologies. Build with them.
+Don't hide the rough edges. Learn from them.
+Don't ship a demo and stop. Iterate.
+```
+
+---
+
+<div align="center">
+
+### Let's build something useful.
+
+<a href="https://github.com/shutkarshX">GitHub</a> ·
+<a href="https://www.linkedin.com/in/utkarsh-sharma-25403a3b5/">LinkedIn</a> ·
+<a href="https://instagram.com/shut.karsh">Instagram</a>
+
+<br /><br />
+
+<sub>Built with Markdown, GitHub Actions, and a suspicious amount of iteration.</sub>
+
+</div>
