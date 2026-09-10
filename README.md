@@ -9,130 +9,150 @@
 
 </div>
 
-## `whoami`
+<br />
 
-I'm a **B.Tech student and developer** who enjoys turning messy problems into working software.
+## `01 / identity`
 
-I care more about **what a system does** than how many technologies can be listed on a README. Most of my work sits around Python/backend systems, full-stack applications, automation, APIs, and increasingly AI-assisted software.
+### Utkarsh Sharma
+**B.Tech student · software builder · systems thinker**
 
-> **Problem → System → Test → Iterate**
+I build practical software around problems I actually run into — from college automation and full-stack applications to data/ML work and AI-assisted decision systems.
+
+I like the part after the idea: **designing the flow, wiring the system, testing the rough edges, and making the thing actually work.**
+
+```text
+problem  →  model  →  build  →  test  →  break  →  improve
+```
 
 ---
 
-## ⚡ What I'm building
+## `02 / selected work`
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🤖 RESQ-AI
-**Disaster-response command center**
+### RESQ-AI
+**Disaster-response intelligence**
 
-A full-stack prototype connecting citizen SOS reports, risk prioritization, geospatial intelligence, AI-assisted decision support, rescue-team assignment and operational tracking.
+A full-stack command-center prototype for incident intake, risk prioritization, geospatial views, AI-assisted recommendations, rescue-team assignment and operation tracking.
 
 `React` `TypeScript` `FastAPI` `Python` `SQLite`
 
-**[→ Explore RESQ-AI](https://github.com/shutkarshX/resq-ai)**
+<a href="https://github.com/shutkarshX/resq-ai">↗ repository</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 📊 Bunku-Bhaiya
+### Bunku-Bhaiya
 **Attendance + academic planning**
 
-A student-focused system that retrieves attendance data and turns it into practical planning: current attendance, teaching-day logic and safe-bunk calculations.
+A student-focused automation system that retrieves college attendance and turns it into subject-level insights, teaching-day logic and safe-bunk planning.
 
 `Python` `Flask` `Playwright` `JavaScript`
 
-**[→ Explore Bunku-Bhaiya](https://github.com/shutkarshX/Bunku-Bhaiya)**
+<a href="https://github.com/shutkarshX/Bunku-Bhaiya">↗ repository</a>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧪 Prodigy-Infotech
-**Data / ML internship work**
+### Prodigy-Infotech
+**Applied data / ML work**
 
-A collection of applied tasks covering visualization, EDA, classification, sentiment analysis and accident-data exploration.
+Five internship tasks covering population visualization, Titanic EDA, classification, sentiment analysis and accident-data exploration.
 
 `Python` `Pandas` `scikit-learn` `NLP`
 
-**[→ Explore the work](https://github.com/shutkarshX/Prodigy-Infotech)**
+<a href="https://github.com/shutkarshX/Prodigy-Infotech">↗ repository</a>
 
 </td>
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🧠 DSA
+### DSA
 **Fundamentals, implemented**
 
-C and Python implementations used to strengthen data structures, algorithms, pointers, memory and problem-solving fundamentals.
+A growing collection of C and Python implementations for algorithms, data structures, pointers, memory and problem-solving practice.
 
-`C` `Python` `DSA`
+`C` `Python` `Algorithms`
 
-**[→ Explore DSA](https://github.com/shutkarshX/DSA)**
+<a href="https://github.com/shutkarshX/DSA">↗ repository</a>
 
 </td>
 </tr>
 </table>
 
----
-
-## 🧩 My stack
-
-| Layer | Tools I actually use |
-|---|---|
-| **Languages** | `Python` `C` `JavaScript` `Java` `TypeScript` |
-| **Frontend** | `React` `HTML` `CSS` `Vite` |
-| **Backend** | `FastAPI` `Flask` `REST APIs` |
-| **Data** | `SQLite` `SQL` `Pandas` `scikit-learn` |
-| **Engineering** | `Git` `GitHub` `Playwright` `SQLAlchemy` |
+> **Portfolio rule:** fewer projects, better stories. These are the builds that currently represent the work best.
 
 ---
 
-## 🐍 Contributions, but alive
+## `03 / engineering stack`
+
+| Area | Tools |
+| --- | --- |
+| **Languages** | `Python` · `C` · `JavaScript` · `TypeScript` · `Java` |
+| **Frontend** | `React` · `Vite` · `HTML` · `CSS` |
+| **Backend** | `FastAPI` · `Flask` · `REST APIs` |
+| **Data / ML** | `Pandas` · `scikit-learn` · `Matplotlib` · `Seaborn` |
+| **Persistence** | `SQLite` · `SQL` · `SQLAlchemy` |
+| **Engineering** | `Git` · `GitHub` · `Playwright` · testing · virtual environments |
+
+---
+
+## `04 / activity`
 
 <div align="center">
 
 <a href="https://github.com/shutkarshX">
-<img src="https://raw.githubusercontent.com/shutkarshX/shutkarshX/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" />
+<img src="https://raw.githubusercontent.com/shutkarshX/shutkarshX/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
 </a>
+
+<sub>contribution history, rendered as a living activity layer</sub>
 
 </div>
 
-<details>
-<summary><b>What the snake represents</b></summary>
 <br />
 
-It's simply my contribution history turned into an animation — a small visual layer over the work happening in public repositories.
+<div align="center">
 
-</details>
+<a href="https://github.com/shutkarshX?tab=repositories">repositories</a> &nbsp;·&nbsp;
+<a href="https://github.com/shutkarshX?tab=activity">activity</a> &nbsp;·&nbsp;
+<a href="https://github.com/shutkarshX?tab=stars">stars</a>
 
----
-
-## 🔭 Currently
-
-- Building and improving **Bunku-Bhaiya**
-- Exploring **AI-assisted software systems**
-- Going deeper into **backend architecture and system design**
-- Turning academic ideas into usable prototypes
-- Looking for opportunities to build, collaborate and learn in public
+</div>
 
 ---
 
-## 📌 A few principles
+## `05 / now`
+
+Not a fixed "currently building" list — the work moves too quickly for that.
+
+**The current direction:**
+
+- refining real projects instead of collecting demos
+- pushing Bunku-Bhaiya through another UI / UX iteration
+- exploring AI-assisted software and decision-support systems
+- getting deeper into backend architecture, APIs and system design
+- learning by shipping, testing and rebuilding
+
+---
+
+## `06 / principles`
 
 ```text
-Don't collect technologies. Build with them.
-Don't hide the rough edges. Learn from them.
-Don't ship a demo and stop. Iterate.
+01  Build before you over-explain.
+02  Make the boring workflow disappear.
+03  Treat edge cases as part of the product.
+04  Prefer working systems over impressive buzzwords.
+05  Ship → inspect → improve → repeat.
 ```
 
 ---
 
 <div align="center">
 
-### Let's build something useful.
+### `let's build something useful.`
 
 <a href="https://github.com/shutkarshX">GitHub</a> ·
 <a href="https://www.linkedin.com/in/utkarsh-sharma-25403a3b5/">LinkedIn</a> ·
@@ -140,6 +160,6 @@ Don't ship a demo and stop. Iterate.
 
 <br /><br />
 
-<sub>Built with Markdown, GitHub Actions, and a suspicious amount of iteration.</sub>
+<sub>Markdown · GitHub Actions · real projects · continuous iteration</sub>
 
 </div>
