@@ -1,29 +1,45 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="300" rx="24" fill="#0d1117"/>
+  <rect width="1200" height="300" fill="#0d1117"/>
 
-  <!-- subtle engineering-grid texture -->
-  <g stroke="#21262d" stroke-width="1" opacity="0.55">
-    <path d="M760 0V300M840 0V300M920 0V300M1000 0V300M1080 0V300M1160 0V300"/>
-    <path d="M720 60H1200M720 120H1200M720 180H1200M720 240H1200"/>
+  <!-- editor-style guide lines -->
+  <g stroke="#21262d" stroke-width="1">
+    <path d="M52 0V300M790 0V300M1180 0V300" opacity="0.8"/>
+    <path d="M52 54H1180M52 246H1180" opacity="0.55"/>
   </g>
 
-  <!-- restrained accent -->
-  <path d="M70 226H1130" stroke="#30363d" stroke-width="1"/>
-  <path d="M70 226H360" stroke="#58a6ff" stroke-width="2"/>
+  <!-- active-line marker -->
+  <rect x="52" y="54" width="4" height="192" fill="#58a6ff"/>
 
-  <!-- small terminal-style marker -->
-  <g transform="translate(900 72)">
-    <rect x="0" y="0" width="230" height="112" rx="12" fill="#161b22" stroke="#30363d"/>
-    <circle cx="18" cy="18" r="3" fill="#58a6ff"/>
-    <text x="34" y="22" fill="#8b949e" font-family="monospace" font-size="11">~/shutkarshX</text>
-    <text x="18" y="52" fill="#58a6ff" font-family="monospace" font-size="15">&gt; build</text>
-    <text x="18" y="76" fill="#8b949e" font-family="monospace" font-size="14">python · web · systems</text>
-    <text x="18" y="96" fill="#f0f6fc" font-family="monospace" font-size="12">shipping things that work.</text>
+  <!-- identity -->
+  <text x="82" y="108" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="1">UTKARSH</text>
+  <text x="82" y="156" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700" letter-spacing="1">SHARMA</text>
+  <text x="84" y="197" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="18">I build software around real problems.</text>
+
+  <!-- technical footer -->
+  <text x="84" y="232" fill="#58a6ff" font-family="monospace" font-size="13">python</text>
+  <text x="142" y="232" fill="#484f58" font-family="monospace" font-size="13">/</text>
+  <text x="158" y="232" fill="#8b949e" font-family="monospace" font-size="13">web</text>
+  <text x="194" y="232" fill="#484f58" font-family="monospace" font-size="13">/</text>
+  <text x="210" y="232" fill="#8b949e" font-family="monospace" font-size="13">systems</text>
+  <text x="274" y="232" fill="#484f58" font-family="monospace" font-size="13">/</text>
+  <text x="290" y="232" fill="#8b949e" font-family="monospace" font-size="13">automation</text>
+
+  <!-- workspace panel -->
+  <g transform="translate(830 54)">
+    <rect width="300" height="192" fill="#161b22" stroke="#30363d"/>
+    <rect width="300" height="32" fill="#0d1117" stroke="#30363d"/>
+    <circle cx="17" cy="16" r="3" fill="#484f58"/>
+    <circle cx="29" cy="16" r="3" fill="#484f58"/>
+    <circle cx="41" cy="16" r="3" fill="#484f58"/>
+    <text x="60" y="20" fill="#8b949e" font-family="monospace" font-size="11">~/shutkarshX</text>
+
+    <text x="20" y="62" fill="#58a6ff" font-family="monospace" font-size="13">$ git status</text>
+    <text x="20" y="83" fill="#8b949e" font-family="monospace" font-size="12">on branch main</text>
+    <text x="20" y="111" fill="#58a6ff" font-family="monospace" font-size="13">$ whoami</text>
+    <text x="20" y="132" fill="#f0f6fc" font-family="monospace" font-size="12">builder</text>
+    <text x="20" y="160" fill="#58a6ff" font-family="monospace" font-size="13">$ _</text>
   </g>
 
-  <text x="70" y="105" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="54" font-weight="700">UTKARSH SHARMA</text>
-  <text x="72" y="150" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="23">building software around real problems.</text>
-  <text x="72" y="190" fill="#8b949e" font-family="monospace" font-size="15">learn → build → break → fix → ship</text>
-
-  <text x="72" y="258" fill="#484f58" font-family="monospace" font-size="11">B.TECH · SOFTWARE BUILDER</text>
+  <!-- small coordinate mark -->
+  <text x="1132" y="274" text-anchor="end" fill="#30363d" font-family="monospace" font-size="10">01 / BUILD</text>
 </svg>
