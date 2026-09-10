@@ -1,41 +1,39 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
   <rect width="1200" height="300" fill="#0d1117"/>
 
-  <!-- quiet structure -->
-  <path d="M48 48H1152M48 252H1152" stroke="#21262d" stroke-width="1"/>
-  <path d="M48 48V252" stroke="#58a6ff" stroke-width="3"/>
+  <!-- editor-like structure -->
+  <path d="M48 38H1152M48 262H1152" stroke="#21262d" stroke-width="1"/>
+  <path d="M48 38V262" stroke="#30363d" stroke-width="1"/>
+  <path d="M790 38V262" stroke="#21262d" stroke-width="1"/>
+  <rect x="48" y="38" width="5" height="224" fill="#58a6ff"/>
 
-  <!-- name -->
-  <text x="82" y="112" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">UTKARSH</text>
-  <text x="82" y="164" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="52" font-weight="700">SHARMA</text>
+  <!-- left: name + direct statement -->
+  <text x="82" y="102" fill="#8b949e" font-family="monospace" font-size="11">~/shutkarshX</text>
+  <text x="82" y="154" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">UTKARSH</text>
+  <text x="82" y="201" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="48" font-weight="700">SHARMA</text>
+  <text x="84" y="231" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="16">building software around real problems.</text>
 
-  <!-- one clear statement -->
-  <text x="84" y="204" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="17">I build software around real problems.</text>
+  <!-- right: small working file / terminal -->
+  <g transform="translate(830 58)">
+    <rect width="290" height="184" fill="#161b22" stroke="#30363d"/>
+    <rect width="290" height="30" fill="#11161d" stroke="#30363d"/>
+    <circle cx="15" cy="15" r="3" fill="#484f58"/>
+    <circle cx="27" cy="15" r="3" fill="#484f58"/>
+    <circle cx="39" cy="15" r="3" fill="#484f58"/>
+    <text x="56" y="19" fill="#8b949e" font-family="monospace" font-size="10">profile.md</text>
 
-  <!-- minimal stack line -->
-  <text x="84" y="238" fill="#58a6ff" font-family="monospace" font-size="12">PYTHON</text>
-  <text x="150" y="238" fill="#484f58" font-family="monospace" font-size="12">·</text>
-  <text x="166" y="238" fill="#8b949e" font-family="monospace" font-size="12">WEB</text>
-  <text x="207" y="238" fill="#484f58" font-family="monospace" font-size="12">·</text>
-  <text x="223" y="238" fill="#8b949e" font-family="monospace" font-size="12">SYSTEMS</text>
-  <text x="292" y="238" fill="#484f58" font-family="monospace" font-size="12">·</text>
-  <text x="308" y="238" fill="#8b949e" font-family="monospace" font-size="12">AUTOMATION</text>
+    <text x="18" y="58" fill="#58a6ff" font-family="monospace" font-size="12">01</text>
+    <text x="44" y="58" fill="#8b949e" font-family="monospace" font-size="12">build useful things</text>
+    <text x="18" y="82" fill="#58a6ff" font-family="monospace" font-size="12">02</text>
+    <text x="44" y="82" fill="#8b949e" font-family="monospace" font-size="12">test the rough edges</text>
+    <text x="18" y="106" fill="#58a6ff" font-family="monospace" font-size="12">03</text>
+    <text x="44" y="106" fill="#8b949e" font-family="monospace" font-size="12">fix what breaks</text>
 
-  <!-- compact terminal signature -->
-  <g transform="translate(850 78)">
-    <rect width="302" height="148" fill="#161b22" stroke="#30363d"/>
-    <rect width="302" height="28" fill="#11161d" stroke="#30363d"/>
-    <circle cx="15" cy="14" r="3" fill="#484f58"/>
-    <circle cx="27" cy="14" r="3" fill="#484f58"/>
-    <circle cx="39" cy="14" r="3" fill="#484f58"/>
-    <text x="56" y="18" fill="#8b949e" font-family="monospace" font-size="10">~/shutkarshX</text>
-
-    <text x="18" y="58" fill="#58a6ff" font-family="monospace" font-size="12">$ whoami</text>
-    <text x="18" y="77" fill="#f0f6fc" font-family="monospace" font-size="12">builder</text>
-    <text x="18" y="105" fill="#58a6ff" font-family="monospace" font-size="12">$ stack</text>
-    <text x="18" y="124" fill="#8b949e" font-family="monospace" font-size="11">python / web / systems</text>
-    <text x="18" y="141" fill="#58a6ff" font-family="monospace" font-size="11">$ _</text>
+    <path d="M18 124H272" stroke="#30363d" stroke-width="1"/>
+    <text x="18" y="148" fill="#58a6ff" font-family="monospace" font-size="11">stack</text>
+    <text x="70" y="148" fill="#f0f6fc" font-family="monospace" font-size="11">python / web / systems</text>
+    <text x="18" y="172" fill="#58a6ff" font-family="monospace" font-size="11">$ _</text>
   </g>
 
-  <text x="1152" y="274" text-anchor="end" fill="#30363d" font-family="monospace" font-size="9">shutkarshX</text>
+  <text x="1152" y="280" text-anchor="end" fill="#30363d" font-family="monospace" font-size="9">main</text>
 </svg>
