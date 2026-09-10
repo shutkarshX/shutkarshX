@@ -15,9 +15,9 @@
 ### Utkarsh Sharma
 **B.Tech student · software builder · systems thinker**
 
-I build practical software around problems I actually run into — from college automation and full-stack applications to data/ML work and AI-assisted decision systems.
+I build practical software around problems I actually run into — from college automation and full-stack applications to data work and AI-assisted decision systems.
 
-I like the part after the idea: **designing the flow, wiring the system, testing the rough edges, and making the thing actually work.**
+I care about the part after the idea: **designing the flow, wiring the system, testing the rough edges, and making the thing actually work.**
 
 ```text
 problem  →  model  →  build  →  test  →  break  →  improve
@@ -72,7 +72,7 @@ Five internship tasks covering population visualization, Titanic EDA, classifica
 ### DSA
 **Fundamentals, implemented**
 
-A growing collection of C and Python implementations for algorithms, data structures, pointers, memory and problem-solving practice.
+C and Python implementations for algorithms, data structures, pointers, memory and problem-solving practice.
 
 `C` `Python` `Algorithms`
 
@@ -81,8 +81,6 @@ A growing collection of C and Python implementations for algorithms, data struct
 </td>
 </tr>
 </table>
-
-> **Portfolio rule:** fewer projects, better stories. These are the builds that currently represent the work best.
 
 ---
 
@@ -113,8 +111,6 @@ A growing collection of C and Python implementations for algorithms, data struct
 
 ## `05 / direction`
 
-Rather than freezing the profile around a single "currently building" list, this section describes the direction behind the work.
-
 - building and refining real software instead of collecting demos
 - stronger UI / UX and product thinking alongside engineering
 - AI-assisted software and decision-support systems
@@ -142,9 +138,5 @@ Rather than freezing the profile around a single "currently building" list, this
 <a href="https://github.com/shutkarshX">GitHub</a> ·
 <a href="https://www.linkedin.com/in/utkarsh-sharma-25403a3b5/">LinkedIn</a> ·
 <a href="https://instagram.com/shut.karsh">Instagram</a>
-
-<br /><br />
-
-<sub>Markdown · GitHub Actions · real projects · continuous iteration</sub>
 
 </div>
