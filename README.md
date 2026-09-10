@@ -5,7 +5,6 @@
 <br />
 
 <a href="https://github.com/shutkarshX"><img src="https://komarev.com/ghpvc/?username=shutkarshX&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" /></a>
-<a href="https://github.com/shutkarshX?tab=followers"><img src="https://img.shields.io/github/followers/shutkarshX?style=flat-square&label=FOLLOWERS" alt="GitHub followers" /></a>
 
 </div>
 
@@ -106,7 +105,7 @@ A growing collection of C and Python implementations for algorithms, data struct
 
 <img src="https://raw.githubusercontent.com/shutkarshX/shutkarshX/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" />
 
-<sub>the contribution graph, turned into a small engineering signature</sub>
+<sub>contribution history, rendered as a small engineering signature</sub>
 
 </div>
 
