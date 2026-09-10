@@ -15,7 +15,7 @@
 ### Utkarsh Sharma
 **B.Tech student · software builder · systems thinker**
 
-I build practical software around problems I actually run into — from college automation and full-stack applications to data work and AI-assisted decision systems.
+I build practical software around problems I actually run into — from college automation and full-stack applications to data/ML work and AI-assisted decision systems.
 
 I care about the part after the idea: **designing the flow, wiring the system, testing the rough edges, and making the thing actually work.**
 
@@ -32,9 +32,9 @@ problem  →  model  →  build  →  test  →  break  →  improve
 <td width="50%" valign="top">
 
 ### RESQ-AI
-**Disaster-response intelligence**
+**Disaster-response command center**
 
-A full-stack command-center prototype for incident intake, risk prioritization, geospatial views, AI-assisted recommendations, rescue-team assignment and operation tracking.
+A full-stack prototype for incident intake, risk prioritization, geospatial views, AI-assisted recommendations, rescue-team assignment and operation tracking.
 
 `React` `TypeScript` `FastAPI` `Python` `SQLite`
 
@@ -58,11 +58,11 @@ A student-focused automation system that retrieves college attendance and turns 
 <td width="50%" valign="top">
 
 ### Prodigy-Infotech
-**Applied data / ML work**
+**Applied data / ML internship work**
 
-Five internship tasks covering population visualization, Titanic EDA, classification, sentiment analysis and accident-data exploration.
+Five practical tasks covering population visualization, Titanic EDA, classification, sentiment analysis and accident-data exploration.
 
-`Python` `Pandas` `scikit-learn` `NLP`
+`Python` `Pandas` `scikit-learn` `Matplotlib`
 
 <a href="https://github.com/shutkarshX/Prodigy-Infotech">↗ repository</a>
 
@@ -70,9 +70,9 @@ Five internship tasks covering population visualization, Titanic EDA, classifica
 <td width="50%" valign="top">
 
 ### DSA
-**Fundamentals, implemented**
+**Algorithms + data structures**
 
-C and Python implementations for algorithms, data structures, pointers, memory and problem-solving practice.
+A growing practice repository covering C/Python implementations, pointers, memory, trees, linked structures, searching, sorting and problem solving.
 
 `C` `Python` `Algorithms`
 
@@ -81,6 +81,8 @@ C and Python implementations for algorithms, data structures, pointers, memory a
 </td>
 </tr>
 </table>
+
+> **Portfolio rule:** fewer projects, better stories. These are the builds that currently represent the work best.
 
 ---
 
@@ -93,7 +95,8 @@ C and Python implementations for algorithms, data structures, pointers, memory a
 | **Backend** | `FastAPI` · `Flask` · `REST APIs` |
 | **Data / ML** | `Pandas` · `scikit-learn` · `Matplotlib` · `Seaborn` |
 | **Persistence** | `SQLite` · `SQL` · `SQLAlchemy` |
-| **Engineering** | `Git` · `GitHub` · `Playwright` · testing · virtual environments |
+| **Automation** | `Playwright` · browser workflows · scripting |
+| **Engineering** | `Git` · `GitHub` · testing · virtual environments |
 
 ---
 
@@ -109,25 +112,27 @@ C and Python implementations for algorithms, data structures, pointers, memory a
 
 ---
 
-## `05 / direction`
+## `05 / what I'm getting better at`
 
-- building and refining real software instead of collecting demos
-- stronger UI / UX and product thinking alongside engineering
-- AI-assisted software and decision-support systems
-- deeper backend architecture, APIs and system design
-- learning by shipping, testing, breaking and rebuilding
+```text
+01  UI / UX that feels intentional, not just functional
+02  Backend architecture, APIs and system boundaries
+03  AI-assisted software and decision-support workflows
+04  Testing edge cases instead of trusting the happy path
+05  Shipping complete systems instead of isolated demos
+```
+
+The goal is simple: **turn useful ideas into software that survives contact with real usage.**
 
 ---
 
-## `06 / principles`
+## `06 / working principles`
 
-```text
-01  Build before you over-explain.
-02  Make the boring workflow disappear.
-03  Treat edge cases as part of the product.
-04  Prefer working systems over impressive buzzwords.
-05  Ship → inspect → improve → repeat.
-```
+- Build before you over-explain.
+- Make the boring workflow disappear.
+- Treat edge cases as part of the product.
+- Prefer working systems over impressive buzzwords.
+- Ship → inspect → improve → repeat.
 
 ---
 
@@ -138,5 +143,9 @@ C and Python implementations for algorithms, data structures, pointers, memory a
 <a href="https://github.com/shutkarshX">GitHub</a> ·
 <a href="https://www.linkedin.com/in/utkarsh-sharma-25403a3b5/">LinkedIn</a> ·
 <a href="https://instagram.com/shut.karsh">Instagram</a>
+
+<br /><br />
+
+<sub>Markdown · GitHub Actions · real projects · continuous iteration</sub>
 
 </div>
