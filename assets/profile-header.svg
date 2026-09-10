@@ -1,77 +1,64 @@
 <svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
   <rect width="1200" height="300" fill="#0d1117"/>
 
-  <!-- quiet blueprint grid -->
+  <!-- restrained engineering grid -->
   <g stroke="#161b22" stroke-width="1">
-    <path d="M0 75H1200M0 150H1200M0 225H1200"/>
+    <path d="M0 74H1200M0 150H1200M0 226H1200"/>
     <path d="M100 0V300M200 0V300M300 0V300M400 0V300M500 0V300M600 0V300M700 0V300M800 0V300M900 0V300M1000 0V300M1100 0V300"/>
   </g>
 
-  <!-- left identity -->
-  <rect x="54" y="52" width="4" height="196" fill="#58a6ff"/>
-  <text x="82" y="82" fill="#8b949e" font-family="monospace" font-size="11">~/shutkarshX</text>
-  <text x="82" y="139" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="700" letter-spacing="1">UTKARSH</text>
-  <text x="82" y="185" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="700" letter-spacing="1">SHARMA</text>
-  <text x="84" y="220" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="16">software • systems • problem solving</text>
+  <!-- identity -->
+  <rect x="54" y="50" width="4" height="200" fill="#58a6ff"/>
+  <text x="82" y="80" fill="#8b949e" font-family="monospace" font-size="11">~/shutkarshX</text>
+  <text x="82" y="137" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="700" letter-spacing="1">UTKARSH</text>
+  <text x="82" y="184" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="700" letter-spacing="1">SHARMA</text>
+  <text x="84" y="219" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="16">software • systems • problem solving</text>
   <text x="84" y="244" fill="#58a6ff" font-family="monospace" font-size="11">python   /   full-stack   /   backend   /   automation</text>
 
-  <!-- right: architecture sketch, not a fake terminal -->
-  <g transform="translate(680 50)">
-    <text x="0" y="12" fill="#6e7681" font-family="monospace" font-size="10">SYSTEM / 001</text>
+  <!-- large, readable system anatomy -->
+  <g transform="translate(650 48)">
+    <text x="0" y="14" fill="#6e7681" font-family="monospace" font-size="10" letter-spacing="1">SYSTEM ANATOMY</text>
 
-    <!-- connector lines -->
-    <g stroke="#30363d" stroke-width="1.5" fill="none">
-      <path d="M88 92H148"/>
-      <path d="M238 92H298"/>
-      <path d="M343 114V164"/>
-      <path d="M298 187H238"/>
-      <path d="M148 187H88"/>
-      <path d="M43 164V114"/>
-    </g>
-
-    <!-- arrowheads -->
+    <!-- flow line -->
+    <path d="M48 117H418" stroke="#30363d" stroke-width="2" fill="none"/>
     <g fill="#58a6ff">
-      <path d="M144 88L151 92L144 96Z"/>
-      <path d="M294 88L301 92L294 96Z"/>
-      <path d="M339 160L343 167L347 160Z"/>
-      <path d="M242 183L235 187L242 191Z"/>
-      <path d="M92 183L85 187L92 191Z"/>
-      <path d="M39 118L43 111L47 118Z"/>
+      <path d="M132 113L140 117L132 121Z"/>
+      <path d="M225 113L233 117L225 121Z"/>
+      <path d="M318 113L326 117L318 121Z"/>
     </g>
 
-    <!-- modules -->
-    <g fill="#0d1117" stroke="#30363d">
-      <rect x="0" y="70" width="88" height="44" rx="3"/>
-      <rect x="151" y="70" width="87" height="44" rx="3"/>
-      <rect x="301" y="70" width="88" height="44" rx="3"/>
-      <rect x="151" y="165" width="87" height="44" rx="3"/>
-      <rect x="0" y="165" width="88" height="44" rx="3"/>
+    <!-- four primary modules -->
+    <g fill="#0d1117" stroke="#30363d" stroke-width="1.5">
+      <rect x="0" y="80" width="88" height="74" rx="4"/>
+      <rect x="93" y="80" width="88" height="74" rx="4"/>
+      <rect x="186" y="80" width="88" height="74" rx="4"/>
+      <rect x="279" y="80" width="88" height="74" rx="4"/>
     </g>
 
-    <text x="14" y="89" fill="#58a6ff" font-family="monospace" font-size="9">INPUT</text>
-    <text x="14" y="103" fill="#8b949e" font-family="monospace" font-size="9">request</text>
+    <text x="15" y="105" fill="#58a6ff" font-family="monospace" font-size="10">INTERFACE</text>
+    <text x="15" y="123" fill="#8b949e" font-family="monospace" font-size="9">React / web</text>
+    <text x="15" y="140" fill="#6e7681" font-family="monospace" font-size="8">input</text>
 
-    <text x="165" y="89" fill="#58a6ff" font-family="monospace" font-size="9">LOGIC</text>
-    <text x="165" y="103" fill="#8b949e" font-family="monospace" font-size="9">decisions</text>
+    <text x="108" y="105" fill="#58a6ff" font-family="monospace" font-size="10">BACKEND</text>
+    <text x="108" y="123" fill="#8b949e" font-family="monospace" font-size="9">FastAPI</text>
+    <text x="108" y="140" fill="#6e7681" font-family="monospace" font-size="8">services</text>
 
-    <text x="315" y="89" fill="#58a6ff" font-family="monospace" font-size="9">API</text>
-    <text x="315" y="103" fill="#8b949e" font-family="monospace" font-size="9">services</text>
+    <text x="201" y="105" fill="#58a6ff" font-family="monospace" font-size="10">LOGIC</text>
+    <text x="201" y="123" fill="#8b949e" font-family="monospace" font-size="9">Python</text>
+    <text x="201" y="140" fill="#6e7681" font-family="monospace" font-size="8">decisions</text>
 
-    <text x="165" y="184" fill="#58a6ff" font-family="monospace" font-size="9">DATA</text>
-    <text x="165" y="198" fill="#8b949e" font-family="monospace" font-size="9">state</text>
+    <text x="294" y="105" fill="#58a6ff" font-family="monospace" font-size="10">DATA</text>
+    <text x="294" y="123" fill="#8b949e" font-family="monospace" font-size="9">SQLite / SQL</text>
+    <text x="294" y="140" fill="#6e7681" font-family="monospace" font-size="8">state</text>
 
-    <text x="14" y="184" fill="#58a6ff" font-family="monospace" font-size="9">UI</text>
-    <text x="14" y="198" fill="#8b949e" font-family="monospace" font-size="9">experience</text>
-
-    <!-- center node -->
-    <circle cx="343" cy="187" r="11" fill="#161b22" stroke="#58a6ff"/>
-    <circle cx="343" cy="187" r="3" fill="#58a6ff"/>
-
-    <text x="430" y="94" fill="#6e7681" font-family="monospace" font-size="9">build</text>
-    <text x="430" y="112" fill="#6e7681" font-family="monospace" font-size="9">connect</text>
-    <text x="430" y="130" fill="#6e7681" font-family="monospace" font-size="9">test</text>
-    <text x="430" y="148" fill="#6e7681" font-family="monospace" font-size="9">iterate</text>
+    <!-- engineering loop beneath the architecture -->
+    <path d="M18 194H365" stroke="#21262d" stroke-width="1"/>
+    <text x="0" y="216" fill="#6e7681" font-family="monospace" font-size="9">BUILD</text>
+    <text x="92" y="216" fill="#6e7681" font-family="monospace" font-size="9">TEST</text>
+    <text x="181" y="216" fill="#6e7681" font-family="monospace" font-size="9">DEBUG</text>
+    <text x="280" y="216" fill="#6e7681" font-family="monospace" font-size="9">SHIP</text>
+    <circle cx="365" cy="212" r="3" fill="#58a6ff"/>
   </g>
 
-  <text x="1148" y="272" text-anchor="end" fill="#30363d" font-family="monospace" font-size="9">engineering / 2026</text>
+  <text x="1148" y="274" text-anchor="end" fill="#30363d" font-family="monospace" font-size="9">engineering / 2026</text>
 </svg>
