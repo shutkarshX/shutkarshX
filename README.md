@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/shutkarshX/shutkarshX/main/assets/profile-header.svg" alt="Utkarsh Sharma — software, systems, automation and AI-assisted builds" width="100%" />
+<img src="https://raw.githubusercontent.com/shutkarshX/shutkarshX/main/assets/profile-header.svg" alt="Utkarsh Sharma — software builder" width="100%" />
 
 <br />
 
