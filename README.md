@@ -124,17 +124,15 @@ A growing collection of C and Python implementations for algorithms, data struct
 
 ---
 
-## `05 / now`
+## `05 / direction`
 
-Not a fixed "currently building" list — the work moves too quickly for that.
+Rather than freezing the profile around a single "currently building" list, this section describes the direction behind the work.
 
-**The current direction:**
-
-- refining real projects instead of collecting demos
-- pushing Bunku-Bhaiya through another UI / UX iteration
-- exploring AI-assisted software and decision-support systems
-- getting deeper into backend architecture, APIs and system design
-- learning by shipping, testing and rebuilding
+- building and refining real software instead of collecting demos
+- stronger UI / UX and product thinking alongside engineering
+- AI-assisted software and decision-support systems
+- deeper backend architecture, APIs and system design
+- learning by shipping, testing, breaking and rebuilding
 
 ---
 
