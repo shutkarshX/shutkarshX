@@ -100,25 +100,13 @@ A growing collection of C and Python implementations for algorithms, data struct
 
 ---
 
-## `04 / activity`
+## `04 / engineering rhythm`
 
 <div align="center">
 
-<a href="https://github.com/shutkarshX">
-<img src="https://raw.githubusercontent.com/shutkarshX/shutkarshX/output/github-contribution-grid-snake.svg" alt="Animated GitHub contribution snake" width="100%" />
-</a>
+<img src="https://raw.githubusercontent.com/shutkarshX/shutkarshX/output/github-contribution-grid-snake.svg" alt="Animated contribution snake" width="100%" />
 
-<sub>contribution history, rendered as a living activity layer</sub>
-
-</div>
-
-<br />
-
-<div align="center">
-
-<a href="https://github.com/shutkarshX?tab=repositories">repositories</a> &nbsp;·&nbsp;
-<a href="https://github.com/shutkarshX?tab=activity">activity</a> &nbsp;·&nbsp;
-<a href="https://github.com/shutkarshX?tab=stars">stars</a>
+<sub>the contribution graph, turned into a small engineering signature</sub>
 
 </div>
 
