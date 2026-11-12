@@ -29,6 +29,20 @@ problem  →  model  →  build  →  verify  →  refine  →  ship
 
 <table>
 <tr>
+<td width="100%" colspan="2" valign="top">
+
+### [TEIN — Smart Attendance Intelligence & Campus Hub](https://github.com/shutkarshX/Tein)
+**University Attendance Forecasting, Combinatorial What-If Optimization & Campus Life Hub**
+
+A full-stack campus life platform featuring real-time attendance forecasting, What-If combinatorial scenario projections, Today's Journey daily class breakdown, and an integrated Campus Clubs & Events discovery ecosystem for 20+ college organizations. Engineered with an offline-first PWA architecture and containerized for zero-downtime production deployment.
+
+`Python` `Flask` `Docker` `PWA` `Combinatorial Math` `Mobile First`
+
+<a href="https://tein.onrender.com">🚀 Launch Live Web App (tein.onrender.com)</a> · <a href="https://github.com/shutkarshX/Tein">↗ Explore Showcase Repository</a>
+
+</td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
 ### [RESQ-AI](https://github.com/shutkarshX/resq-ai)
