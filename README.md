@@ -31,7 +31,6 @@
 - **[Layer-Flow](https://github.com/shutkarshX/Layer-Flow)** — Transparent screen drawing canvas & desktop annotation utility. `Tauri 2` `Rust` `React`
 - **[Speedo](https://github.com/shutkarshX/Speedo)** — Chrome extension (MV3) automating coursework progression & video playback. `JavaScript` `Extension MV3`
 - **[LevitorBot](https://github.com/shutkarshX/LevitorBot)** — Asynchronous media resolution Telegram bot with multi-tier fallbacks. `Python Asyncio` `20/20 Tests`
-- **[Citizen Services & CPU Scheduling](https://github.com/shutkarshX/Integrated-National-Citizen-Services-Platform)** — Interactive CPU scheduling lab (FCFS, SJF, Priority, RR). `Python` `166 Tests`
 
 ---
 
