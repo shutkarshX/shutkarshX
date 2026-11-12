@@ -12,6 +12,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/utkarsh-sharma-25403a3b5/)
 &nbsp;
+[![Portfolio PDF](https://img.shields.io/badge/Portfolio-PDF-0284c7?style=flat-square&logo=googledocs&logoColor=white)](https://github.com/shutkarshX/shutkarshX/blob/main/Utkarsh_Sharma_Technical_Portfolio.pdf)
+&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/shut.karsh)
 &nbsp;
 [![Profile Views](https://komarev.com/ghpvc/?username=shutkarshX&style=flat-square&color=38bdf8&label=VIEWS)](https://github.com/shutkarshX)
