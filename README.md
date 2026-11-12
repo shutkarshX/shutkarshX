@@ -1,6 +1,12 @@
 <div align="center">
 
-<img src="assets/profile-header.svg" alt="Utkarsh Sharma" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0a0d16,111827,1e1b4b,0d1117&height=210&section=header&text=Utkarsh%20Sharma&fontSize=42&fontColor=f0f6fc&fontAlignY=36&desc=Software%20Builder%20%C2%B7%20Systems%20%C2%B7%20Tools&descSize=16&descAlignY=58" width="100%" />
+
+<br />
+
+<a href="https://github.com/shutkarshX">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&lines=CS+Student+(Data+Science);Building+full-stack+web+apps+%26+systems;Python+%C2%B7+TypeScript+%C2%B7+Rust+%C2%B7+React;Shipping+practical+tools+relentlessly" alt="Typing SVG" />
+</a>
 
 <br /><br />
 
@@ -11,10 +17,6 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=shutkarshX&style=flat-square&color=38bdf8&label=VIEWS)](https://github.com/shutkarshX)
 
 </div>
-
-### Hey, I'm Utkarsh 👋
-
-CS student (Data Science) building full-stack applications, desktop utilities, and practical tools.
 
 ---
 
