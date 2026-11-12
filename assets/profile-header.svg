@@ -1,64 +1,140 @@
-<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
-  <rect width="1200" height="300" fill="#0d1117"/>
+<svg width="1200" height="320" viewBox="0 0 1200 320" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradients -->
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a0c10" />
+      <stop offset="50%" stop-color="#0d1117" />
+      <stop offset="100%" stop-color="#090d16" />
+    </linearGradient>
 
-  <!-- restrained engineering grid -->
-  <g stroke="#161b22" stroke-width="1">
-    <path d="M0 74H1200M0 150H1200M0 226H1200"/>
-    <path d="M100 0V300M200 0V300M300 0V300M400 0V300M500 0V300M600 0V300M700 0V300M800 0V300M900 0V300M1000 0V300M1100 0V300"/>
+    <!-- Ambient Glows -->
+    <radialGradient id="glow-cyan" cx="15%" cy="30%" r="50%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0" />
+    </radialGradient>
+
+    <radialGradient id="glow-purple" cx="85%" cy="40%" r="60%">
+      <stop offset="0%" stop-color="#818cf8" stop-opacity="0.18" />
+      <stop offset="100%" stop-color="#818cf8" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Text Gradients -->
+    <linearGradient id="name-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="50%" stop-color="#f1f5f9" />
+      <stop offset="100%" stop-color="#94a3b8" />
+    </linearGradient>
+
+    <linearGradient id="accent-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#818cf8" />
+      <stop offset="100%" stop-color="#c084fc" />
+    </linearGradient>
+
+    <!-- Card Glassmorphism Gradient -->
+    <linearGradient id="glass-card" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.6" />
+    </linearGradient>
+  </defs>
+
+  <!-- Background Base -->
+  <rect width="1200" height="320" rx="16" fill="url(#bg-grad)" />
+
+  <!-- Ambient Light Orbs -->
+  <circle cx="180" cy="100" r="320" fill="url(#glow-cyan)" />
+  <circle cx="1020" cy="140" r="380" fill="url(#glow-purple)" />
+
+  <!-- Subtle Blueprint Mesh -->
+  <g stroke="#1e293b" stroke-width="1" stroke-opacity="0.25">
+    <path d="M0 80H1200M0 160H1200M0 240H1200" />
+    <path d="M120 0V320M240 0V320M360 0V320M480 0V320M600 0V320M720 0V320M840 0V320M960 0V320M1080 0V320" />
   </g>
 
-  <!-- identity -->
-  <rect x="54" y="50" width="4" height="200" fill="#58a6ff"/>
-  <text x="82" y="80" fill="#8b949e" font-family="monospace" font-size="11">~/shutkarshX</text>
-  <text x="82" y="137" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="700" letter-spacing="1">UTKARSH</text>
-  <text x="82" y="184" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="47" font-weight="700" letter-spacing="1">SHARMA</text>
-  <text x="84" y="219" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="16">software • systems • problem solving</text>
-  <text x="84" y="244" fill="#58a6ff" font-family="monospace" font-size="11">python   /   full-stack   /   backend   /   automation</text>
+  <!-- Left Content Area -->
+  <g transform="translate(64, 48)">
+    <!-- Terminal Prompt Pill -->
+    <rect x="0" y="0" width="168" height="28" rx="14" fill="#1e293b" fill-opacity="0.6" stroke="#334155" stroke-width="1"/>
+    <circle cx="16" cy="14" r="4" fill="#38bdf8" />
+    <text x="28" y="18" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" letter-spacing="0.5">utkarsh.sharma</text>
 
-  <!-- large, readable system anatomy -->
-  <g transform="translate(650 48)">
-    <text x="0" y="14" fill="#6e7681" font-family="monospace" font-size="10" letter-spacing="1">SYSTEM ANATOMY</text>
+    <!-- Main Name Title -->
+    <text x="0" y="80" fill="url(#name-grad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="44" font-weight="800" letter-spacing="-0.5">Utkarsh Sharma</text>
 
-    <!-- flow line -->
-    <path d="M48 117H418" stroke="#30363d" stroke-width="2" fill="none"/>
-    <g fill="#58a6ff">
-      <path d="M132 113L140 117L132 121Z"/>
-      <path d="M225 113L233 117L225 121Z"/>
-      <path d="M318 113L326 117L318 121Z"/>
+    <!-- Dynamic Tagline -->
+    <text x="0" y="116" fill="url(#accent-grad)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="600" letter-spacing="0.5">Software Builder · Systems Thinker · Full-Stack Engineer</text>
+
+    <!-- Short Pitch -->
+    <text x="0" y="146" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="400">Architecting resilient digital products from mathematical models to cloud production.</text>
+
+    <!-- Tech Highlight Badges -->
+    <g transform="translate(0, 175)">
+      <!-- Badge 1: Architecture -->
+      <g>
+        <rect x="0" y="0" width="165" height="32" rx="8" fill="#1e293b" fill-opacity="0.5" stroke="#38bdf8" stroke-width="1" stroke-opacity="0.4"/>
+        <text x="14" y="20" fill="#38bdf8" font-family="monospace" font-size="11" font-weight="600">⚡ High-Impact Systems</text>
+      </g>
+
+      <!-- Badge 2: Full-Stack -->
+      <g transform="translate(177, 0)">
+        <rect x="0" y="0" width="160" height="32" rx="8" fill="#1e293b" fill-opacity="0.5" stroke="#818cf8" stroke-width="1" stroke-opacity="0.4"/>
+        <text x="14" y="20" fill="#818cf8" font-family="monospace" font-size="11" font-weight="600">🚀 Full-Stack &amp; Desktop</text>
+      </g>
+
+      <!-- Badge 3: ML / AI -->
+      <g transform="translate(349, 0)">
+        <rect x="0" y="0" width="145" height="32" rx="8" fill="#1e293b" fill-opacity="0.5" stroke="#c084fc" stroke-width="1" stroke-opacity="0.4"/>
+        <text x="14" y="20" fill="#c084fc" font-family="monospace" font-size="11" font-weight="600">🧠 AI &amp; Predictive DS</text>
+      </g>
     </g>
-
-    <!-- four primary modules -->
-    <g fill="#0d1117" stroke="#30363d" stroke-width="1.5">
-      <rect x="0" y="80" width="88" height="74" rx="4"/>
-      <rect x="93" y="80" width="88" height="74" rx="4"/>
-      <rect x="186" y="80" width="88" height="74" rx="4"/>
-      <rect x="279" y="80" width="88" height="74" rx="4"/>
-    </g>
-
-    <text x="15" y="105" fill="#58a6ff" font-family="monospace" font-size="10">INTERFACE</text>
-    <text x="15" y="123" fill="#8b949e" font-family="monospace" font-size="9">React / web</text>
-    <text x="15" y="140" fill="#6e7681" font-family="monospace" font-size="8">input</text>
-
-    <text x="108" y="105" fill="#58a6ff" font-family="monospace" font-size="10">BACKEND</text>
-    <text x="108" y="123" fill="#8b949e" font-family="monospace" font-size="9">FastAPI</text>
-    <text x="108" y="140" fill="#6e7681" font-family="monospace" font-size="8">services</text>
-
-    <text x="201" y="105" fill="#58a6ff" font-family="monospace" font-size="10">LOGIC</text>
-    <text x="201" y="123" fill="#8b949e" font-family="monospace" font-size="9">Python</text>
-    <text x="201" y="140" fill="#6e7681" font-family="monospace" font-size="8">decisions</text>
-
-    <text x="294" y="105" fill="#58a6ff" font-family="monospace" font-size="10">DATA</text>
-    <text x="294" y="123" fill="#8b949e" font-family="monospace" font-size="9">SQLite / SQL</text>
-    <text x="294" y="140" fill="#6e7681" font-family="monospace" font-size="8">state</text>
-
-    <!-- engineering loop beneath the architecture -->
-    <path d="M18 194H365" stroke="#21262d" stroke-width="1"/>
-    <text x="0" y="216" fill="#6e7681" font-family="monospace" font-size="9">BUILD</text>
-    <text x="92" y="216" fill="#6e7681" font-family="monospace" font-size="9">TEST</text>
-    <text x="181" y="216" fill="#6e7681" font-family="monospace" font-size="9">DEBUG</text>
-    <text x="280" y="216" fill="#6e7681" font-family="monospace" font-size="9">SHIP</text>
-    <circle cx="365" cy="212" r="3" fill="#58a6ff"/>
   </g>
 
-  <text x="1148" y="274" text-anchor="end" fill="#30363d" font-family="monospace" font-size="9">engineering / 2026</text>
+  <!-- Right Aesthetic Interactive Glass Card -->
+  <g transform="translate(760, 48)">
+    <rect x="0" y="0" width="376" height="224" rx="14" fill="url(#glass-card)" stroke="#334155" stroke-width="1.5" stroke-opacity="0.6"/>
+
+    <!-- Mac-style Window Controls -->
+    <circle cx="24" cy="22" r="5" fill="#f43f5e" />
+    <circle cx="40" cy="22" r="5" fill="#f59e0b" />
+    <circle cx="56" cy="22" r="5" fill="#10b981" />
+    <text x="80" y="26" fill="#64748b" font-family="monospace" font-size="11">engineering-pipeline.ts</text>
+
+    <!-- Code Line Preview -->
+    <g transform="translate(20, 56)" font-family="monospace" font-size="12">
+      <text y="0" fill="#64748b">1</text>
+      <text x="24" y="0" fill="#818cf8">const</text>
+      <text x="68" y="0" fill="#f1f5f9">builder</text>
+      <text x="124" y="0" fill="#38bdf8">=</text>
+      <text x="140" y="0" fill="#818cf8">{</text>
+
+      <text y="24" fill="#64748b">2</text>
+      <text x="36" y="24" fill="#38bdf8">name:</text>
+      <text x="84" y="24" fill="#34d399">"Utkarsh Sharma"</text>
+      <text x="216" y="24" fill="#94a3b8">,</text>
+
+      <text y="48" fill="#64748b">3</text>
+      <text x="36" y="48" fill="#38bdf8">role:</text>
+      <text x="84" y="48" fill="#34d399">"Systems &amp; Product"</text>
+      <text x="236" y="48" fill="#94a3b8">,</text>
+
+      <text y="72" fill="#64748b">4</text>
+      <text x="36" y="72" fill="#38bdf8">passions:</text>
+      <text x="112" y="72" fill="#f1f5f9">[</text>
+      <text x="124" y="72" fill="#fbbf24">"Scalability"</text>
+      <text x="228" y="72" fill="#94a3b8">,</text>
+      <text x="240" y="72" fill="#fbbf24">"PWA"</text>
+      <text x="288" y="72" fill="#f1f5f9">],</text>
+
+      <text y="96" fill="#64748b">5</text>
+      <text x="36" y="96" fill="#38bdf8">status:</text>
+      <text x="96" y="96" fill="#a78bfa">"shipping_relentlessly"</text>
+
+      <text y="120" fill="#64748b">6</text>
+      <text x="24" y="120" fill="#818cf8">}</text>
+      <text x="34" y="120" fill="#38bdf8">;</text>
+
+      <text y="144" fill="#64748b">7</text>
+      <text x="24" y="144" fill="#64748b">// problem → model → build → ship</text>
+    </g>
+  </g>
 </svg>
