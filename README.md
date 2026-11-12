@@ -45,18 +45,21 @@
 
 <div align="center">
 
-<table border="0">
-<tr>
-<td>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=shutkarshX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8&hide_rank=true" alt="GitHub Stats" />
-</td>
-<td>
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=shutkarshX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
-</td>
-</tr>
-</table>
+<a href="https://github.com/shutkarshX">
+  <img src="https://streak-stats.demolab.com?user=shutkarshX&theme=tokyonight&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakNum=38bdf8&sideNums=38bdf8&sideLabels=94a3b8&dates=64748b" alt="GitHub Streak" />
+</a>
 
-<br />
+<br /><br />
+
+<a href="https://github.com/shutkarshX">
+  <img src="https://github-stats-extended.vercel.app/api?username=shutkarshX&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&icon_color=818cf8&text_color=94a3b8&hide_rank=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/shutkarshX">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shutkarshX&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=94a3b8" alt="Top Languages" />
+</a>
+
+<br /><br />
 
 <img src="https://raw.githubusercontent.com/shutkarshX/shutkarshX/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
 
