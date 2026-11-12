@@ -22,7 +22,7 @@
 
 ### 🚀 Projects
 
-- **[TEIN](https://tein.onrender.com)** — University attendance predictor & campus clubs hub. `Python` `Flask` `Docker` `PWA` · [[showcase](https://github.com/shutkarshX/Tein)]
+- **[TEIN](https://github.com/shutkarshX/Tein)** — University attendance predictor & campus clubs hub. `Python` `Flask` `Docker` `PWA` · [live demo](https://tein.onrender.com)
 - **[RESQ-AI](https://github.com/shutkarshX/resq-ai)** — Disaster response command center with real-time incident triage & geospatial routing. `FastAPI` `React` `Gemini AI` `Leaflet`
 - **[Layer-Flow](https://github.com/shutkarshX/Layer-Flow)** — Transparent screen drawing canvas & desktop annotation utility. `Tauri 2` `Rust` `React`
 - **[Speedo](https://github.com/shutkarshX/Speedo)** — Chrome extension (MV3) automating coursework progression & video playback. `JavaScript` `Extension MV3`
